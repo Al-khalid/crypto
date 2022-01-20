@@ -1,4 +1,4 @@
-# 1 To 10
+# 1 Morse > binary
 
 - A simple script that helps you convert Morse code to binary
 - I benefited from it in coding CTF challenges
