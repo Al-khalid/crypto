@@ -6,4 +6,4 @@
 ![clarification](https://raw.githubusercontent.com/Al-khalid/crypto/master/d.png)
 
 # Usage
-`Just Write your guess number`
+`Just Write your Morse code`
